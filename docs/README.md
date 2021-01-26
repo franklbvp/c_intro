@@ -55,6 +55,7 @@ Small examples will be used to experiment with the different topics.
 | [Dynamic memory](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-S-MemoryManagement.pdf)  |   |   |
 | [Structures: more](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-S-Structures_more.pdf)  |   |   |
 | [Multifile approach](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-S-multifile.pdf)  |   |   |
+| [IO](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-IO.pdf)  |   |   |
 
 
 
