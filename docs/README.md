@@ -34,29 +34,28 @@ Small examples will be used to experiment with the different topics.
 
 |Slides | PowerPoint Narrative | Screencast Demo |
 |------------ | -------------------- | -----------------------|
-| [Introduction](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-00-Introduction.pdf)  |   | -  |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| [Introduction](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-00-Introduction.pdf)  |   |   |
+| [Some history](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-00-SomeHistory.pdf)  |   |   |
+| [Basic workflow](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-T-BasicWorkflow.pdf)  |   |   |
+| [Programming style](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-T-ProgrammingStyle.pdf)  |   |   |
+| [Debugging basics GDB](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-T-DebugC.pdf)  |   |   |
+| [Variables, arithmetic](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-BBB-Variables_arithmetic.pdf)  |   |   |
+| [Expressions](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-BBB-Expressions.pdf)  |   |   |
+| [Control flow: conditionals](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-BBB-ControlFlow_Conditionals.pdf)  |   |   |
+| [Control flow: loops](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-BBB-ControlFlow_Loops.pdf)  |   |   |
+| [Funtions](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-BBB-Functions.pdf)  |   |   |
+| [Scoping basics](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-S-Scope_basics.pdf)  |   |   |
+| [Preprocessor](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-S-Preprocessor.pdf)  |   |   |
+| [Pointers](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-S-Pointers_basics.pdf)  |   |   |
+| [Arrays](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-S-Arrays_basics.pdf)  |   |   |
+| [Strings](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-S-Strings_basics.pdf)  |   |   |
+| [Structures](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-S-Structures_more.pdf)  |   |   |
+| [Dynamic memory](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-S-MemoryManagement.pdf)  |   |   |
+| [Structures: more](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-S-Structures_more.pdf)  |   |   |
+| [Multifile approach](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-S-multifile.pdf)  |   |   |
+| [IO]()  |   |   |
 
 
-Check also
+### Check also
 
 * Get to know your [tools](tools.md)
