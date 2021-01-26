@@ -1,19 +1,18 @@
 # An introduction to C programming
 
-
-## Content
-    * C History
-    * Writing a small C progam, understand the basic workflow
-    * the very basics on GDB
-    * a word on a Programming Style Guide
-    * Assignments, Keywords, Identifiers, Variables
-    * Control flow
-    * Functions
-    * Preprocessor
-    * Pointers
-    * Arrays 
-    * Structures
-    * Working with files and standard I/O
+## Content:
+* C History
+* Writing a small C progam, understand the basic workflow
+* The very basics on GDB
+* A word on a Programming Style Guide
+* Assignments, Keywords, Identifiers, Variables
+* Control flow
+* Functions
+* Preprocessor
+* Pointers
+* Arrays 
+* Structures
+* Working with files and standard I/O
 
 ## Level: 
 beginner
@@ -56,7 +55,7 @@ Small examples will be used to experiment with the different topics.
 | [Dynamic memory](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-S-MemoryManagement.pdf)  |   |   |
 | [Structures: more](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-S-Structures_more.pdf)  |   |   |
 | [Multifile approach](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-S-multifile.pdf)  |   |   |
-| [IO]()  |   |   |
+
 
 
 ### Check also
