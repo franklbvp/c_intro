@@ -2,6 +2,7 @@
 
 
 ## Content
+
     * C History
     * Writing a small C progam, understand the basic workflow
     * the very basics on GDB
@@ -32,7 +33,8 @@ Small examples will be used to experiment with the different topics.
 ## Slides and Video Material
 
 |Slides | PowerPoint Narrative | Screencast Demo |
-| [Introduction](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-00-Introduction.pdf)  |   |   |
+|------------ | -------------------- | -----------------------|
+| [Introduction](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-00-Introduction.pdf)  |   | -  |
 |   |   |   |
 |   |   |   |
 |   |   |   |
@@ -53,7 +55,8 @@ Small examples will be used to experiment with the different topics.
 |   |   |   |
 |   |   |   |
 |   |   |   |
+
 
 Check also
 
-Get to know your [tools](tools.md)
+* Get to know your [tools](tools.md)
