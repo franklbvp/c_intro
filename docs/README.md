@@ -2,7 +2,6 @@
 
 
 ## Content
-
     * C History
     * Writing a small C progam, understand the basic workflow
     * the very basics on GDB
@@ -29,6 +28,10 @@ This course will provide the very basics on the C programming environment.
 Participants will be able to write small applications themselves as well
 as understand C programming code.
 Small examples will be used to experiment with the different topics.
+
+## Material related to the course
+
+* [handson examples](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-examples.zip)
 
 ## Slides and Video Material
 
