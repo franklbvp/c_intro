@@ -34,13 +34,13 @@ Small examples will be used to experiment with the different topics.
 
 ## Slides and Video Material
 
-|Slides | PowerPoint Narrative | Screencast Demo |
+|Slides | PowerPoint Narrative | More |
 |------------ | -------------------- | -----------------------|
-| [Introduction](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-00-Introduction.pdf)  |   |   |
+| [Introduction](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-00-Introduction.pdf)  |   | [C environment](https://github.com/franklbvp/c_intro/blob/main/docs/cProgramming_installation_environment-windows-2021_01.pdf)  |
 | [Some history](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-00-SomeHistory.pdf)  |  [14:53](https://kuleuven.mediaspace.kaltura.com/media/Ccourse-00-SomeHistory/1_2e8n2z3u) |   |
 | [Basic workflow](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-T-BasicWorkflow.pdf)  |  [29:13](https://kuleuven.mediaspace.kaltura.com/media/Ccourse-T-BasicWorkflow/1_pwj4imbo) |   |
 | [Programming style](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-T-ProgrammingStyle.pdf)  | [13:45](https://kuleuven.mediaspace.kaltura.com/media/Ccourse-T-ProgrammingStyle/1_38l82nh4)  |   |
-| [Debugging basics GDB](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-T-DebugC.pdf)  | [20:17](https://kuleuven.mediaspace.kaltura.com/media/Ccourse-T-DebugC/1_zqes4f7e)  |   |
+| [Debugging basics GDB](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-T-DebugC.pdf)  | [20:17](https://kuleuven.mediaspace.kaltura.com/media/Ccourse-T-DebugC/1_zqes4f7e)  | [Quick guide](https://github.com/franklbvp/c_intro/blob/main/docs/gdbQuickGuide.pdf)  |
 | [Variables, arithmetic](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-BBB-Variables_arithmetic.pdf)  | [45:46](https://kuleuven.mediaspace.kaltura.com/media/Ccourse-BBB-Variables_arthmetic/1_pyk8r2eb)  |   |
 | [Expressions](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-BBB-Expressions.pdf)  | [21:42](https://kuleuven.mediaspace.kaltura.com/media/Ccourse-BBB-Expressions/1_wj3eccz8)  |   |
 | [Control flow: conditionals](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-BBB-ControlFlow_Conditionals.pdf)  | [28:04](https://kuleuven.mediaspace.kaltura.com/media/Ccourse-BBB-ControlFlow_Conditionals/1_rhedhfsq)  |   |
@@ -58,7 +58,3 @@ Small examples will be used to experiment with the different topics.
 | [IO](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-IO.pdf)  |   |   |
 
 
-
-### Check also
-
-* Get to know your [tools](tools.md)
