@@ -30,7 +30,7 @@ Small examples will be used to experiment with the different topics.
 
 ## Material related to the course
 
-* [handson examples](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-examples.zip)
+* [hands-on examples](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-examples.zip)
 
 ## Slides, Video and More
 
