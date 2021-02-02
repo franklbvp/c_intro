@@ -32,7 +32,7 @@ Small examples will be used to experiment with the different topics.
 
 * [handson examples](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-examples.zip)
 
-## Slides and Video Material
+## Slides, Video and More
 
 |Slides | PowerPoint Narrative | More |
 |------------ | -------------------- | -----------------------|
