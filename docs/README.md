@@ -50,9 +50,9 @@ Small examples will be used to experiment with the different topics.
 | [Preprocessor](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-S-Preprocessor.pdf)  |  [26:12](https://kuleuven.mediaspace.kaltura.com/media/Ccourse-S-Preprocessor/1_k219ecc4) |   |
 | [Pointers](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-S-Pointers_basics.pdf)  |  [34:16](https://kuleuven.mediaspace.kaltura.com/media/Ccourse-S-Pointer_basics/1_koqey0e6) |   |
 | [Arrays](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-S-Arrays_basics.pdf)  | [27:51](https://kuleuven.mediaspace.kaltura.com/media/Ccourse-S-Arrays_basics/1_1zh4ykft)  |   |
-| [Strings](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-S-Strings_basics.pdf)  | ^10:01](https://kuleuven.mediaspace.kaltura.com/media/Ccourse-S-Strings_basics/1_044vbccn)  |   |
+| [Strings](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-S-Strings_basics.pdf)  | [10:01](https://kuleuven.mediaspace.kaltura.com/media/Ccourse-S-Strings_basics/1_044vbccn)  |   |
 | [Structures](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-S-Structures_more.pdf)  | [16:19](https://kuleuven.mediaspace.kaltura.com/media/Ccourse-S-Structures_basics/1_ly002x9s)  |   |
-| [Dynamic memory](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-S-MemoryManagement.pdf)  |  ^16:29](https://kuleuven.mediaspace.kaltura.com/media/Ccourse-S-MemoryManagement/1_5mvhmrim) |   |
+| [Dynamic memory](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-S-MemoryManagement.pdf)  |  [16:29](https://kuleuven.mediaspace.kaltura.com/media/Ccourse-S-MemoryManagement/1_5mvhmrim) |   |
 | [Structures: more](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-S-Structures_more.pdf)  | [18:33](https://kuleuven.mediaspace.kaltura.com/media/Ccourse-S-Structures_more/1_8e3u3xhb)  |   |
 | [Multifile approach](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-S-multifile.pdf)  | [22:44](https://kuleuven.mediaspace.kaltura.com/media/Ccourse-S-multifile/1_qkq7907j)  |   |
 | [IO](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-IO.pdf)  |   |   |
