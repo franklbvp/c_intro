@@ -57,4 +57,6 @@ Small examples will be used to experiment with the different topics.
 | [Multifile approach](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-S-multifile.pdf)  | [22:44](https://kuleuven.mediaspace.kaltura.com/media/Ccourse-S-multifile/1_qkq7907j)  |   |
 | [IO](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-IO.pdf)  |   |   |
 
+## Check also
+* [Joel Sommers' The Book of C](https://jsommers.github.io/cbook/index.html)
 
