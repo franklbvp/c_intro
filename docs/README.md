@@ -59,4 +59,5 @@ Small examples will be used to experiment with the different topics.
 
 ## Check also
 * [Joel Sommers' The Book of C](https://jsommers.github.io/cbook/index.html)
+* [James Aspnes Notes on Data Structures and Programming Techniques](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html)
 
