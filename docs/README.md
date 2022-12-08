@@ -28,15 +28,21 @@ Participants will be able to write small applications themselves as well
 as understand C programming code.
 Small examples will be used to experiment with the different topics.
 
+## Setup
+
+During the sessions, a WSL environment (Windos Subsystem for Linux - Ubuntu) with gcc compiler will used to run and demonstrate the C programs. It can be useful to have an environment available to test small example programs.
+
+More info on setting up a C-environment: [C environment](https://github.com/franklbvp/c_intro/blob/main/docs/cProgramming_installation_environment-windows-2023.pdf)
+
 ## Material related to the course
 
 * [hands-on examples](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-examples.zip)
 
 ## Slides, Video and More
 
-|Slides | PowerPoint Narrative | More |
+|Slides | PowerPoint Narrative | Extra |
 |------------ | -------------------- | -----------------------|
-| [Introduction](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-00-Introduction.pdf)  |   | [C environment](https://github.com/franklbvp/c_intro/blob/main/docs/cProgramming_installation_environment-windows-2022_01.pdf)  |
+| [Introduction](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-00-Introduction.pdf)  |   |   |
 | [Some history](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-00-SomeHistory.pdf)  |  [14:53](https://kuleuven.mediaspace.kaltura.com/media/Ccourse-00-SomeHistory/1_2e8n2z3u) |   |
 | [Basic workflow](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-T-BasicWorkflow.pdf)  |  [29:13](https://kuleuven.mediaspace.kaltura.com/media/Ccourse-T-BasicWorkflow/1_pwj4imbo) |   |
 | [Programming style](https://github.com/franklbvp/c_intro/blob/main/docs/Ccourse-T-ProgrammingStyle.pdf)  | [13:45](https://kuleuven.mediaspace.kaltura.com/media/Ccourse-T-ProgrammingStyle/1_38l82nh4)  |   |
