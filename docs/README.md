@@ -1,6 +1,6 @@
 # An introduction to C programming
 
-## Content:
+## Content
 * C History
 * Writing a small C progam, understand the basic workflow
 * The very basics on GDB
@@ -14,7 +14,7 @@
 * Structures
 * Working with files and standard I/O
 
-## Level: 
+## Level
 beginner
 
 This short course is intended for students and researchers in need of
@@ -22,17 +22,15 @@ knowing the very basics of the C programming language.
 Familiarity and previous experience with any high level programming
 language will be very helpful, as well as a basic knowledge of linux.
 
-## Objectives: 
-This course will provide the very basics on the C programming environment.
-Participants will be able to write small applications themselves as well
-as understand C programming code.
-Small examples will be used to experiment with the different topics.
+## Objectives
+This course aims to train the basic concepts of the C-programming language. The different topics are shown in the table below. 
+Small examples will be used to experiment with these different topics.
 
 ## Setup
+During the sessions, a WSL environment (Windos Subsystem for Linux - Ubuntu) with gcc compiler will be used to run and demonstrate the C programs. Very basic Linux commands will be used. 
 
-During the sessions, a WSL environment (Windos Subsystem for Linux - Ubuntu) with gcc compiler will used to run and demonstrate the C programs. It can be useful to have an environment available to test small example programs.
-
-More info on setting up a C-environment: [C environment](https://github.com/franklbvp/c_intro/blob/main/docs/cProgramming_installation_environment-windows-2023.pdf)
+It can be useful to have an environment available to test small C example programs, either during the session or afterwards to test the different features.
+More info on setting up a C-environment: [C environment setup](https://github.com/franklbvp/c_intro/blob/main/docs/cProgramming_installation_environment-windows-2023.pdf)
 
 ## Material related to the course
 
