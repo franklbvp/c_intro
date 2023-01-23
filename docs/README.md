@@ -27,7 +27,7 @@ This course aims to train the basic concepts of the C-programming language. The 
 Small examples will be used to experiment with these different topics.
 
 ## Setup
-During the sessions, a WSL environment (Windos Subsystem for Linux - Ubuntu) with gcc compiler will be used to run and demonstrate the C programs. Very basic Linux commands will be used. 
+During the sessions, a WSL environment (Windows Subsystem for Linux - Ubuntu) with gcc compiler will be used to run and demonstrate the C programs. Very basic Linux commands will be used. 
 
 It can be useful to have an environment available to test small C example programs, either during the session or afterwards to test the different features.
 More info on setting up a C-environment: [C environment setup](https://github.com/franklbvp/c_intro/blob/main/docs/cProgramming_installation_environment-windows-2023.pdf)
