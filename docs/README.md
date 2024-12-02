@@ -30,7 +30,9 @@ Small examples will be used to experiment with these different topics.
 During the sessions, a WSL environment (Windows Subsystem for Linux - Ubuntu) with gcc compiler will be used to run and demonstrate the C programs. Very basic Linux commands will be used. 
 
 It can be useful to have an environment available to test small C example programs, either during the session or afterwards to test the different features.
-More info on setting up a C-environment: [C environment setup](https://github.com/franklbvp/c_intro/blob/main/docs/cProgramming_installation_environment-windows-2023.pdf)
+More info on setting up a C-environment: [C environment setup](https://github.com/franklbvp/c_intro/blob/main/docs/cProgramming_installation_environment-windows-2024.pdf)
+
+A quick guide on the GDB debugger: [gdb Quick Guide](https://github.com/franklbvp/c_intro/blob/main/docs/gdbQuickGuide.pdf)
 
 ## Material related to the course
 
